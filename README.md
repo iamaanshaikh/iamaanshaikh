@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iamaanshaikh
+- 👋 Hi, I’m @iamaanshaikh - A Google & Web Developer
 - 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently learning Web Developing and B.Tech
+- 🌱 I’m currently learning Web Development and App Development
 - 💞️ I’m looking to collaborate on Web and Web App Development at Back end and Front end.
 - 📫 How to reach me at email - iamaanshaikh@indiaofficial.net
 
